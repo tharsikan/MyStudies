@@ -1,4 +1,4 @@
 # MyStudies
 studied documents  
-[youtube](https://www.youtube.com/watch?v=0aJCGOxeHVk)
+[WebSite](https://tharsikan.github.io/MyStudies/)
 
